@@ -10,8 +10,6 @@
 
 ## 📌 Objetivo
 
-Descreva aqui o problema ou pergunta de negócio que motivou o projeto. Exemplo:
-
 > Este projeto tem como objetivo analisar dados de venda a fim de validar ou rejeitar hipóteses propostas pelas lideranças de áreas, apoiando decisões relacionadas a campanhas de marketing.
 >## Hipóteses propostas:
 > **- Desempenho por Região (Ticket Médio):** A região Sudeste apresenta um ticket médio por pedido significativamente maior do que a região Sul, justificando um maior investimento em marketing nessa área?
@@ -22,7 +20,7 @@ Descreva aqui o problema ou pergunta de negócio que motivou o projeto. Exemplo:
 
 ## 🗂️ Fonte dos dados
 
-- **Origem:** Dados sintéticos de cerca de 5000 registros
+- **Origem:** Dados sintéticos de cerca de 5000 registros de vendas
 - **Período:** (ex: dados referentes a jan/2025 a dez/2026)
 
 ## 🛠️ Ferramentas utilizadas
