@@ -1,0 +1,42 @@
+# Ambientes virtuais
+venv/
+env/
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Dados (ajuste conforme a política de privacidade do seu projeto)
+data/bruto/*
+!data/bruto/.gitkeep
+
+# Se os dados tratados também não puderem ser públicos, descomente a linha abaixo
+# data/tratado/*
+# !data/tratado/.gitkeep
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Credenciais e chaves (nunca subir!)
+*.env
+credentials.json
+client_secret*.json
+*.pem
+*.key
+
+# Logs
+*.log
