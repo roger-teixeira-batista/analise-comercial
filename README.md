@@ -4,7 +4,7 @@
 
 🔗 **[Data studio](https://datastudio.google.com/u/0/reporting/71286794-6bea-4589-80f4-940993a7abd3/page/gce4F)**
 
-![Preview do dashboard](images/dashboard_preview.png)
+![Preview do dashboard](images/dashboard_comercial_imagem.jpg)
 
 ---
 
