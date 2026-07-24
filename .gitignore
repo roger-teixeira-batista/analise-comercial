@@ -15,14 +15,6 @@ __pycache__/
 *.egg-info/
 .pytest_cache/
 
-# Dados (ajuste conforme a política de privacidade do seu projeto)
-data/bruto/*
-!data/bruto/.gitkeep
-
-# Se os dados tratados também não puderem ser públicos, descomente a linha abaixo
-# data/tratado/*
-# !data/tratado/.gitkeep
-
 # Configurações de IDE
 .vscode/
 .idea/
