@@ -13,9 +13,13 @@
 > Este projeto tem como objetivo analisar dados de venda a fim de validar ou rejeitar hipóteses propostas pelas lideranças de áreas, apoiando decisões relacionadas a campanhas de marketing.
 >## Hipóteses propostas:
 > **- Desempenho por Região (Ticket Médio):** A região Sudeste apresenta um ticket médio por pedido significativamente maior do que a região Sul, justificando um maior investimento em marketing nessa área?
+> 
 > **- Análise de Taxas de Cancelamento:** A categoria "Móveis" possui a maior taxa de pedidos cancelados ou devolvidos em comparação com "Eletrônicos" e "Informática"?
+> 
 > **- Taxa de pedidos pendentes ou cancelados:** Existe uma concentração maior de vendas com status "Pendente" ou "Cancelado" na segunda quinzena do mês em comparação com a primeira quinzena?
+> 
 > **- Desempenho de Produtos (Faturamento):** O produto "Notebook" é responsável pela maior parcela do faturamento total, superando os demais produtos?
+> 
 > **- Desempenho dos Vendedores:** Os vendedores apresentam diferenças significativas no faturamento médio por venda, indicando que alguns vendedores possuem maior desempenho comercial?
 
 ## 🗂️ Fonte dos dados
@@ -48,7 +52,8 @@ nome-do-projeto/
 │
 ├── .gitignore
 ├── requirements.txt
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ## 🔄 Pipeline do projeto
