@@ -59,7 +59,7 @@ nome-do-projeto/
    - Exportação do resultado para `data/tratado/`
 
 2. **Análise Exploratória de Dados — EDA** (`notebooks/02_eda.ipynb`)
-   - Leitura dos dados tratados (`data/bruto/`)
+   - Leitura dos dados tratados (`data/tratado/`)
    - Estatísticas descritivas
    - Validações de hipóteses
    - Principais insights identificados
