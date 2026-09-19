@@ -78,7 +78,7 @@ nome-do-projeto/
 
 ## 📊 Principais insights
 
-Liste aqui, em bullet points, os 3-5 achados mais relevantes da EDA. Exemplo:
+Os 3-5 achados mais relevantes da EDA.
 
 - A região sudeste possui um ticket médio maior que o ticket médio da região sul.
 - A categoria Informática apresenta uma taxa de 72% de pedidos cancelados ou devolvidos em comparação com Móveis (16%)  e Eletrônicos (11%).
